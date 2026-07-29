@@ -22,7 +22,7 @@ for instace adding:
 to my commands got the program working in windows
 
 ## Disclaimers
-There is currently a bug where the output 3mf model is floating above the build plate, please groud the object (in Bambu or Orca this can be done with the auto-orientate button)
+There is currently a bug where the output 3mf model is floating above the build plate, please ground the object (in Bambu or Orca this can be done with the auto-orientate button)
 
 You will also see the output from OpenSCAD CLI commands, sometimes starting with "WARNING:". You do not need to worry about warnings like this, particularly:
  - WARNING: GeometryEvaluator: Node didn't fit into cache - this just means the heap got full and is calling the garbage collector
