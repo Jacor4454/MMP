@@ -1,0 +1,10 @@
+.env
+
+
+pythonLibs/__pycache__/
+assets/sampled/
+assets/temp/
+assets/raw_ascii/
+assets/terr50_gagg_gb/
+
+OpenSCAD/generatedData/
