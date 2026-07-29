@@ -1,0 +1,2 @@
+water.gpkg filter=lfs diff=lfs merge=lfs -text
+woods.gpkg filter=lfs diff=lfs merge=lfs -text
